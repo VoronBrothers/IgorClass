@@ -1,11 +1,6 @@
+from Igorclass import Igor
+
 a = None
-
-
-class Igor:
-    tall = 175
-
-    def voice(self):
-        print("Привет")
 
 
 while True:
