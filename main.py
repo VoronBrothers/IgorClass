@@ -16,5 +16,6 @@ while True:
         b = Igor()
         print(b.tall)
         b.voice()
+        print(str(b.age()) + " AGE")
 
 
